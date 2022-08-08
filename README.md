@@ -1,1 +1,2 @@
 # CS131Lab1_CMB
+This is my second attempt at CS131ON Lab 1. This project contains two different programs. The first has three classes, a NonPlayerCharacter class, and GameCharacter class and an application class. The second program has two classes and abstract class SportsTeam and a class that inherits from SportsTeam BasketBall team. 
